@@ -1,19 +1,25 @@
 name: Daily FootyEdge
 on:
   schedule:
-    - cron: '0 3 * * *' # 6am Nairobi daily
-  workflow_dispatch: # lets you test manually
-
+    - cron: '0 3 * * *' # 6am EAT
+  workflow_dispatch:
 jobs:
-  send:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - run: pip install -r requirements.txt
+        with: { python-version: '3.11' }
+      - run: pip install requests pillow pytz
       - run: python main.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+      - name: Save learning history
+        run: |
+          git config --local user.email "bot@footyedge.ke"
+          git config --local user.name "FootyEdge Bot"
+          git add history.json || true
+          git commit -m "🧠 Learn from yesterday" || true
+          git push || true
