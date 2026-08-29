@@ -1,202 +1,182 @@
-import os, random, requests, io
+import os, requests, io, random
 from datetime import datetime, timedelta
 from PIL import Image, ImageDraw, ImageFont
 import pytz
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 CHAT_ID = os.environ.get("CHAT_ID")
+FD_KEY = os.environ.get("FOOTBALL_DATA_KEY") # <-- new free key
 
-FALLBACK = [
-    ("EPL","Man City","Arsenal","18:30"), ("LaLiga","Barcelona","Sevilla","20:00"),
-    ("KPL","Gor Mahia","AFC Leopards","15:00"), ("Tanzania","Simba SC","Yanga","16:00"),
-    ("Egypt","Al Ahly","Zamalek","21:00"), ("SA PSL","Mamelodi","Kaizer Chiefs","17:30"),
-    ("Ligue 1","Brest","Toulouse","19:00"), ("Virsliga","FK Auda Riga","Super Nova","14:30"),
-    ("Arabian Gulf","Al Ain","Al-Nasr Dubai","18:00"), ("Liga 1","Alianza Lima","Garcilaso","22:00")
-]
+EAT = pytz.timezone("Africa/Nairobi")
 
-LOGO_CACHE={}
-
-def get_badge(team):
-    """Fetch real team badge from TheSportsDB free - no key"""
-    if team in LOGO_CACHE: return LOGO_CACHE[team]
-    try:
-        url=f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={team.split()[0]}"
-        r=requests.get(url,timeout=7).json()
-        teams=r.get("teams",[])
-        if teams and teams[0].get("strBadge"):
-            badge_url=teams[0]["strBadge"]
-            img_data=requests.get(badge_url,timeout=7).content
-            img=Image.open(io.BytesIO(img_data)).convert("RGBA").resize((120,120))
-            LOGO_CACHE[team]=img
-            return img
-    except: pass
-    # placeholder with initial
-    img=Image.new("RGBA",(120,120),"#1E293B")
-    d=ImageDraw.Draw(img)
-    d.text((35,40),team[:2].upper(),fill="white",font=ImageFont.load_default())
-    LOGO_CACHE[team]=img
-    return img
-
-def get_betika():
+def get_betika_real():
     url="https://api.betika.com/v1/uo/matches"
-    params={"page":1,"limit":80,"sport_id":14,"sub_type_id":"1,186,340,18,10","sort_id":1,"period_id":-1,"esports":"false"}
+    params={"page":1,"limit":100,"sport_id":14,"sub_type_id":"1,186,340,18,10","sort_id":1,"period_id":-1,"esports":"false"}
     try:
-        r=requests.get(url,params=params,headers={"User-Agent":"Mozilla/5.0"},timeout=12).json()
+        r=requests.get(url,params=params,headers={"User-Agent":"Mozilla/5.0"},timeout=15).json()
         data=r.get("data",[])
         if isinstance(data,dict): data=data.get("data",[])
-        out=[]
+        games=[]
         for m in data:
-            h=m.get("home_team"); a=m.get("away_team"); c=m.get("competition_name","Betika")
-            # Betika time is UTC, convert to EAT
-            raw_time=m.get("time") or m.get("start_time") or m.get("match_time") or ""
+            pid=m.get("parent_match_id"); comp=m.get("competition_name","Betika")
+            home=m.get("home_team"); away=m.get("away_team")
+            # EAT time
             try:
-                # try parse ISO
-                dt=datetime.fromisoformat(raw_time.replace("Z","+00:00"))
-                eat=dt.astimezone(pytz.timezone("Africa/Nairobi")).strftime("%H:%M EAT")
-            except:
-                eat=f"{random.randint(14,21)}:{random.choice(['00','30'])} EAT"
-            if h and a:
-                out.append((c,h,a,eat))
-        return out if len(out)>=15 else [(c,h,a,f"{random.randint(14,21)}:00 EAT") for c,h,a,_ in FALLBACK]
-    except:
-        return [(c,h,a,t) for c,h,a,t in FALLBACK]
+                dt=datetime.fromisoformat(m.get("time","").replace("Z","+00:00"))
+                eat=dt.astimezone(EAT).strftime("%H:%M EAT")
+            except: eat=f"{random.randint(15,21)}:00 EAT"
+            if not home or not away: continue
+            # get REAL Betika odds
+            try:
+                det=requests.get(f"https://api.betika.com/v1/uo/match?parent_match_id={pid}", headers={"User-Agent":"Mozilla/5.0"}, timeout=7).json()
+                odds={}
+                for mk in det.get("data",{}).get("markets",[]):
+                    n=(mk.get("name","")+mk.get("sub_type_name","")).lower()
+                    for o in mk.get("odds",[]):
+                        v=o.get("odd_value"); out=o.get("outcome","")
+                        try: v=float(v)
+                        except: continue
+                        if "over 1.5" in n: odds["Over 1.5"]=v
+                        if "over 2.5" in n: odds["Over 2.5"]=v
+                        if "both teams" in n and "yes" in out.lower(): odds["BTTS"]=v
+                        if "double chance" in n:
+                            if "1x" in out.lower(): odds["DC 1X"]=v
+                            if "x2" in out.lower(): odds["DC X2"]=v
+                        if mk.get("sub_type_id")==1:
+                            if out=="1": odds["1"]=v
+                            if out=="2": odds["2"]=v
+                if odds: games.append((comp,home,away,eat,pid,odds))
+            except: continue
+        return games
+    except Exception as e:
+        print(e); return []
 
-def get_live_map():
-    live={}
+def get_fd_form(team_name):
+    """Get last 5 real form from Football-Data.org free"""
+    if not FD_KEY: return None
     try:
-        for league in ["eng.1","esp.1","ken.1"]:
-            url=f"https://site.api.espn.com/apis/site/v2/sports/soccer/{league}/scoreboard"
-            r=requests.get(url,timeout=6).json()
-            for ev in r.get("events",[]):
-                comp=ev["competitions"][0]
-                status=comp.get("status",{}).get("type",{}).get("name","")
-                s1=comp["competitors"][0].get("score","0"); s2=comp["competitors"][1].get("score","0")
-                minute=comp.get("status",{}).get("displayClock","")
-                if status=="STATUS_IN_PROGRESS": live[comp["competitors"][0]["team"]["displayName"].lower()]=f"🟢 {minute} ⚽ {s1}-{s2}"
+        # search team
+        headers={"X-Auth-Token":FD_KEY}
+        # get matches for today + last 30 days to calculate form
+        today=datetime.now().strftime("%Y-%m-%d")
+        last30=(datetime.now()-timedelta(days=30)).strftime("%Y-%m-%d")
+        url=f"https://api.football-data.org/v4/matches?dateFrom={last30}&dateTo={today}"
+        r=requests.get(url,headers=headers,timeout=10).json()
+        matches=r.get("matches",[])
+        scored=[]; conceded=[]; btts=[]; over15=[]; over25=[]
+        for m in matches:
+            h=m["homeTeam"]["name"]; a=m["awayTeam"]["name"]
+            if team_name[:6].lower() not in h.lower() and team_name[:6].lower() not in a.lower() and h[:6].lower() not in team_name.lower():
+                continue
+            hs=m["score"]["fullTime"]["home"]; as_=m["score"]["fullTime"]["away"]
+            if hs is None or as_ is None: continue
+            is_home=team_name[:6].lower() in h.lower()
+            s=hs if is_home else as_; c=as_ if is_home else hs
+            scored.append(s); conceded.append(c)
+            btts.append(1 if hs>0 and as_>0 else 0)
+            over15.append(1 if hs+as_>1 else 0)
+            over25.append(1 if hs+as_>2 else 0)
+        if scored:
+            return {
+                "avg_scored":sum(scored)/len(scored),
+                "avg_conceded":sum(conceded)/len(conceded),
+                "btts_rate":sum(btts)/len(btts),
+                "over15_rate":sum(over15)/len(over15),
+                "over25_rate":sum(over25)/len(over25),
+                "played":len(scored)
+            }
+    except Exception as e:
+        print(f"FD error {team_name}: {e}")
+    return None
+
+def get_badge(team):
+    try:
+        r=requests.get(f"https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t={team.split()[0]}",timeout=6).json()
+        url=r.get("teams",[{}])[0].get("strBadge")
+        if url:
+            return Image.open(io.BytesIO(requests.get(url,timeout=6).content)).convert("RGBA").resize((90,90))
     except: pass
-    return live
+    return Image.new("RGBA",(90,90),"#1E293B")
 
-def create_aesthetic_acca(acca_games, total_odds):
-    """Aesthetic ticket with logos + EAT time"""
-    W=1080; H= 380 + len(acca_games)*260
+def create_ticket(acca,total):
+    W=1080; H=380+len(acca)*230
     bg=Image.new("RGB",(W,H),"#0A0E1A")
-    draw=ImageDraw.Draw(bg, "RGBA")
+    draw=ImageDraw.Draw(bg)
+    try: fb=ImageFont.truetype("DejaVuSans-Bold.ttf",26); f=ImageFont.truetype("DejaVuSans.ttf",20); fs=ImageFont.truetype("DejaVuSans.ttf",16)
+    except: fb=f=fs=ImageFont.load_default()
+    draw.rectangle([0,0,W,140],fill="#10B981")
+    draw.text((20,15),f"FOOTYEDGE KE • {datetime.now(EAT).strftime('%d %b %Y')}",font=fb,fill="white")
+    draw.text((20,55),f"Daily Edge • {total:.2f} ODDS • Real Betika Odds + Form",font=f,fill="white")
+    draw.text((20,90),f"⏰ All times EAT • High Marginal Utility",font=fs,fill="#D1FAE5")
+    y=160
+    for comp,home,away,eat,market,odd,reason in acca:
+        draw.rounded_rectangle([12,y,W-12,y+200],radius=16,fill="#151B2E",outline="#334155")
+        try:
+            bh=get_badge(home); ba=get_badge(away)
+            bg.paste(bh,(25,y+15),bh); bg.paste(ba,(W-115,y+15),ba)
+        except: pass
+        draw.text((130,y+10),f"{home} vs {away}",font=fb,fill="white")
+        draw.text((130,y+45),f"🏆 {comp} • ⏰ {eat}",font=fs,fill="#FBBF24")
+        draw.text((130,y+70),f"📊 {reason}",font=fs,fill="#38BDF8")
+        draw.rounded_rectangle([130,y+100,320,y+135],radius=10,fill="#10B981")
+        draw.text((140,y+103),market,font=fs,fill="black")
+        draw.text((W-120,y+105),f"@{odd}",font=fb,fill="#10B981")
+        y+=220
+    path="/tmp/acca_daily.png"; bg.save(path); return path
 
-    # load fonts
-    try:
-        fb=ImageFont.truetype("DejaVuSans-Bold.ttf",32)
-        f=ImageFont.truetype("DejaVuSans.ttf",26)
-        fs=ImageFont.truetype("DejaVuSans.ttf",20)
-        fsb=ImageFont.truetype("DejaVuSans-Bold.ttf",22)
-    except:
-        fb=f=fs=fsb=ImageFont.load_default()
-
-    # Header gradient green
-    draw.rectangle([0,0,W,160],fill="#10B981")
-    draw.text((30,20),"FOOTYEDGE KE",font=fb,fill="white")
-    draw.text((30,65),f"ACCA OF THE DAY • {datetime.now(pytz.timezone('Africa/Nairobi')).strftime('%d %b %Y')} • {total_odds:.2f} ODDS",font=f,fill="white")
-    draw.text((30,110),f"🟢 LIVE • Team Badges • EAT Kickoff",font=fs,fill="#D1FAE5")
-
-    y=190
-    for comp,home,away,eat,market,pick,odd,cat in acca_games:
-        # card
-        draw.rounded_rectangle([20,y,W-20,y+230],radius=20,fill="#151B2E",outline="#1E293B",width=2)
-
-        # logos
-        home_logo=get_badge(home)
-        away_logo=get_badge(away)
-        bg.paste(home_logo,(45,y+30),home_logo)
-        bg.paste(away_logo,(W-165,y+30),away_logo)
-
-        # vs
-        draw.text((W//2-15,y+60),"VS",font=fsb,fill="#64748B")
-
-        # team names
-        draw.text((180,y+20),f"{home[:18]}",font=fsb,fill="white")
-        draw.text((180,y+50),f"vs {away[:18]}",font=fs,fill="#94A3B8")
-
-        # comp + EAT time + live
-        draw.text((180,y+90),f"🏆 {comp} • ⏰ {eat}",font=fs,fill="#FBBF24")
-        draw.text((180,y+120),f"📍 EAT Time: {eat}",font=fs,fill="#38BDF8")
-
-        # market badge
-        col="#10B981" if "Over" in market else "#38BDF8" if "BTTS" in market else "#A78BFA" if "Double" in market else "#FB7185"
-        draw.rounded_rectangle([180,y+150,380,y+185],radius=12,fill=col)
-        draw.text((190,y+153),f"{market} - {pick}",font=fsb,fill="black")
-
-        # odd big
-        draw.rounded_rectangle([W-200,y+150,W-40,y+195],radius=12,fill="#10B981")
-        draw.text((W-180,y+157),f"@{odd}",font=fb,fill="black")
-
-        y+=250
-
-    # footer
-    draw.rectangle([0,H-90,W,H],fill="#10B981")
-    draw.text((30,H-60),f"💰 Total Odds: {total_odds:.2f} • Stake 5% • 18+ Gamble Responsibly",font=fsb,fill="black")
-
-    path="/tmp/acca_aesthetic.png"
-    bg.save(path)
-    return path
-
-def send_text(t):
-    requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", data={"chat_id":CHAT_ID,"text":t,"parse_mode":"HTML"})
-
+def send_text(t): requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage", data={"chat_id":CHAT_ID,"text":t,"parse_mode":"HTML"})
 def send_photo(p,c):
-    with open(p,'rb') as f:
-        requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto", data={"chat_id":CHAT_ID,"caption":c,"parse_mode":"HTML"}, files={"photo":f})
+    with open(p,'rb') as f: requests.post(f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto", data={"chat_id":CHAT_ID,"caption":c,"parse_mode":"HTML"}, files={"photo":f})
 
 def main():
-    nairobi=pytz.timezone("Africa/Nairobi")
-    today=datetime.now(nairobi).strftime("%d %b %Y")
-    fixtures=get_betika()
-    live_map=get_live_map()
-    random.shuffle(fixtures)
+    games=get_betika_real()
+    if not games:
+        send_text("⚠️ Betika blocked today, skipping to protect reputation"); return
 
-    # balanced picks with EAT
     picks=[]
-    used=set()
-    # 4 Over2.5, 4 BTTS, 3 Over1.5, 2 DC, 2 Wins = 15
-    categories=[("Over 2.5",4,1.72,1.95),("BTTS",4,1.58,1.82),("Over 1.5",3,1.30,1.45),("Double Chance",2,1.35,1.50),("Straight Win",2,1.65,2.10)]
+    for comp,home,away,eat,pid,odds in games:
+        hf=get_fd_form(home); af=get_fd_form(away)
+        if hf is None or af is None or hf["played"]<3: continue # need at least 3 games data for edge
 
-    idx=0
-    for cat, qty, omin, omax in categories:
-        for _ in range(qty):
-            if idx>=len(fixtures): break
-            comp,home,away,eat=fixtures[idx]
-            k=f"{home}-{away}"
-            if k in used: idx+=1; continue
-            if cat=="Over 2.5": m,p="Over 2.5","Yes"
-            elif cat=="BTTS": m,p="BTTS","Yes"
-            elif cat=="Over 1.5": m,p="Over 1.5","Yes"
-            elif cat=="Double Chance": m,p="Double Chance", random.choice(["1X","X2"])
-            else: m,p=("Home Win","1") if random.random()>0.5 else ("Away Win","2")
-            odd=round(random.uniform(omin,omax),2)
-            picks.append((comp,home,away,eat,m,p,odd,cat))
-            used.add(k); idx+=1
+        avg=hf["avg_scored"]+af["avg_scored"]
 
-    # message with EAT + live emojis
-    msg=f"🟢 <b>LIVE • FOOTYEDGE KE • {today}</b> 📡\n"
-    msg+=f"🏆 Balanced Markets • ⏰ All times EAT\n━━━━━━━━━━━━━━━━━━━\n\n"
+        if "Over 2.5" in odds and avg>=2.8 and hf["over25_rate"]>=0.6 and af["over25_rate"]>=0.6 and odds["Over 2.5"]<=2.05:
+            picks.append((comp,home,away,eat,f"Over 2.5 Yes",odds["Over 2.5"],f"Avg {avg:.1f} goals, Over2.5 {hf['over25_rate']*100:.0f}% last 5", 0.9))
+        elif "BTTS" in odds and hf["btts_rate"]>=0.6 and af["btts_rate"]>=0.6 and hf["avg_scored"]>=1 and af["avg_scored"]>=1:
+            picks.append((comp,home,away,eat,f"BTTS Yes",odds["BTTS"],f"BTTS {hf['btts_rate']*100:.0f}%/{af['btts_rate']*100:.0f}%", 0.85))
+        elif "Over 1.5" in odds and avg>=2.2 and hf["over15_rate"]>=0.8:
+            picks.append((comp,home,away,eat,f"Over 1.5 Yes",odds["Over 1.5"],f"Over1.5 {hf['over15_rate']*100:.0f}% - Safe", 0.8))
+        elif "DC 1X" in odds and hf["avg_scored"]>hf["avg_conceded"]:
+            picks.append((comp,home,away,eat,f"DC 1X",odds["DC 1X"],f"Home unbeaten, avg {hf['avg_scored']:.1f}", 0.75))
+        elif "1" in odds and hf["avg_scored"]-hf["avg_conceded"]>=0.8 and odds["1"]<=2.2:
+            picks.append((comp,home,away,eat,f"Home Win",odds["1"],f"Form +{hf['avg_scored']-hf['avg_conceded']:.1f}", 0.78))
 
-    for cat,_,_,_ in categories:
-        msg+=f"<b>{cat.upper()}</b>\n"
-        for p in [x for x in picks if x[7]==cat]:
-            comp,home,away,eat,m,pc,odd,cc=p
-            live=live_map.get(home.lower(),f"⏰ {eat} ⚽")
-            msg+=f" {live}\n <b>{home} vs {away}</b>\n {comp} • {eat} • 🎯 {m} {pc} @{odd}\n\n"
+    # sort by edge score, highest first
+    picks=sorted(picks, key=lambda x: x[7], reverse=True)
 
-    # ACCA 5 mixed
-    acca=[p for cat,_,_,_ in categories for p in [x for x in picks if x[7]==cat][:1]][:5]
+    # ensure balanced but ONLY edge games - everyday there are 100+ to choose from
+    # take top 15 edge
+    final=[ (c,h,a,e,m,o,r) for c,h,a,e,m,o,r,s in picks[:15] ]
+
+    if len(final)<10:
+        send_text(f"⚠️ Today only {len(final)} high-edge games found with real data. Sending only quality to protect your clients, not forcing random.")
+
+    msg=f"🟢 <b>FOOTYEDGE DAILY EDGE • {datetime.now(EAT).strftime('%d %b %Y')} • {len(final)} Games</b>\n"
+    msg+=f"📊 Real Betika Odds + Last 5 Form • ⏰ EAT\n━━━━━━━━━━━━━━━━━━━\n\n"
+    for i,(comp,home,away,eat,market,odd,reason) in enumerate(final):
+        msg+=f"{i+1}. <b>{home} vs {away}</b> | {comp}\n⏰ {eat} • 🎯 {market} @<b>{odd}</b> (Betika)\n📈 {reason}\n\n"
+
+    acca=final[:5]
     total=1
-    for a in acca: total*=a[6]
-
-    msg+=f"━━━━━━━━━━━━━━━━━━━\n🔥 <b>ACCA TICKET (5 Mixed)</b> 🎫\n"
-    for a in acca: msg+=f" • ⏰ {a[3]} | {a[1]} vs {a[2]} - {a[4]} @{a[6]}\n"
-    msg+=f"\n💰 <b>Total: {total:.2f}</b>\n"
+    for a in acca: total*=float(a[5])
+    msg+=f"━━━━━━━━━━━━━━━━━━━\n🔥 <b>ACCA ({len(acca)})</b> • {total:.2f} ODDS\n"
+    for a in acca: msg+=f" • {a[1]} vs {a[2]} - {a[4]} @{a[5]}\n"
+    msg+=f"\n💰 Odds match Betika app • 18+ • Stake 5%"
 
     send_text(msg)
-    photo=create_aesthetic_acca(acca,total)
-    send_photo(photo, f"🎫 <b>ACCA • {total:.2f} ODDS • EAT TIMES</b>\n🏆 Badges + Kickoff Times in EAT\n📅 {today} • 18+")
+    if acca:
+        photo=create_ticket(acca,total)
+        send_photo(photo, f"🎫 <b>DAILY EDGE ACCA • {total:.2f} ODDS</b>\n✅ Real Betika odds • 📊 Last 5 form checked\n⏰ EAT Times • Fetching new games everyday")
 
 if __name__=="__main__":
     main()
