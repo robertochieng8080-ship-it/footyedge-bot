@@ -1,0 +1,78 @@
+{
+  "picks": [
+    {
+      "date": "2026-08-29",
+      "comp": "J1 League",
+      "home": "Gamba Osaka",
+      "away": "Hiroshima",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Premier League",
+      "home": "Tottenham",
+      "away": "Newcastle",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Premier League",
+      "home": "Coventry City",
+      "away": "Hull City",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "J1 League",
+      "home": "Kawasaki Frontale",
+      "away": "Ichihara Chiba",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Premier League",
+      "home": "Bournemouth",
+      "away": "Everton",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Premier League",
+      "home": "Tottenham",
+      "away": "Newcastle",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Chinese Super League",
+      "home": "Chengdu Rongcheng",
+      "away": "Liaoning",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Bundesliga",
+      "home": "Elversberg",
+      "away": "Leverkusen",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-08-29",
+      "comp": "Premier League",
+      "home": "Liverpool",
+      "away": "Nottm Forest",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    }
+  ],
+  "league_stats": {},
+  "market_stats": {}
+}
