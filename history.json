@@ -143,6 +143,78 @@
       "away": "Inter Milan",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Premier League",
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "AFC Champions League Two",
+      "home": "Persib Bandung",
+      "away": "Manila Digger FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Super League",
+      "home": "Levadiakos",
+      "away": "Panathinaikos",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Cymru Premier",
+      "home": "Flint Town Utd",
+      "away": "Connah's Quay Nomads FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Premier League",
+      "home": "KI Klaksvik",
+      "away": "Eb/Streymur",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Allsvenskan",
+      "home": "IK Sirius",
+      "away": "Malmo FF",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Cymru Premier",
+      "home": "Ammanford",
+      "away": "Cardiff Metropolitan University FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "Premier League",
+      "home": "Zamalek SC",
+      "away": "Petrojet FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-08-31",
+      "comp": "AFC Champions League Two",
+      "home": "Persib Bandung",
+      "away": "Manila Digger FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
     }
   ],
   "league_stats": {},
