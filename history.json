@@ -215,6 +215,78 @@
       "away": "Manila Digger FC",
       "market": "Double Chance DC 1X",
       "odd": 1.3
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Romania Cup",
+      "home": "FC Universitatea Cluj",
+      "away": "FC Petrolul Ploiesti",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Puchar Polski",
+      "home": "Chemik Bydgoszcz",
+      "away": "GKS Piast Gliwice",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Russian Cup",
+      "home": "FK Akron Tolyatti",
+      "away": "Lokomotiv Moscow",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Russian Cup",
+      "home": "FK Rostov",
+      "away": "CSKA Moscow",
+      "market": "Over 1.5 Yes",
+      "odd": 1.21
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Russian Cup",
+      "home": "FC Fakel Voronezh",
+      "away": "FK Krasnodar",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "1. Lig",
+      "home": "Boluspor",
+      "away": "Ankara Keciorengucu",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Romania Cup",
+      "home": "FC Universitatea Cluj",
+      "away": "FC Petrolul Ploiesti",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Russian Cup",
+      "home": "FC Fakel Voronezh",
+      "away": "FK Krasnodar",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-01",
+      "comp": "Puchar Polski",
+      "home": "Chemik Bydgoszcz",
+      "away": "GKS Piast Gliwice",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
     }
   ],
   "league_stats": {},
