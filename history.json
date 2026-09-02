@@ -287,6 +287,78 @@
       "away": "GKS Piast Gliwice",
       "market": "Double Chance DC 1X",
       "odd": 1.38
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Premiership",
+      "home": "Celtic",
+      "away": "Aberdeen FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Coppa Italia",
+      "home": "Udinese",
+      "away": "Venezia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Premier Soccer League",
+      "home": "Scottland FC",
+      "away": "FC Platinum",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Greece Cup",
+      "home": "PAOK",
+      "away": "OFI Crete",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "J.League Cup",
+      "home": "Nara",
+      "away": "Sagan Tosu",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Championship",
+      "home": "Cape Town City FC",
+      "away": "Leicesterford City",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "DFB Pokal",
+      "home": "Osnabruck",
+      "away": "Bayern Munich",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Championship",
+      "home": "West Brom",
+      "away": "Charlton",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-02",
+      "comp": "Bundesliga",
+      "home": "FC Salzburg",
+      "away": "SK Rapid",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
     }
   ],
   "league_stats": {},
