@@ -359,6 +359,78 @@
       "away": "SK Rapid",
       "market": "Double Chance DC 1X",
       "odd": 1.3
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Super League",
+      "home": "FC Basel 1893",
+      "away": "FC Sion",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Premiership",
+      "home": "Hibernian FC",
+      "away": "Hearts",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Superliga",
+      "home": "FC Copenhagen",
+      "away": "FC Nordsjaelland",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Pro League",
+      "home": "RSC Anderlecht",
+      "away": "KV Kortrijk",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "1. Lig",
+      "home": "Bursaspor",
+      "away": "Istanbulspor",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Premier League",
+      "home": "Hapoel Tel Aviv FC",
+      "away": "Beitar Jerusalem FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Premier League",
+      "home": "AL Ahly SC",
+      "away": "Smouha SC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Primera Division",
+      "home": "Deportivo Rayo Zuliano",
+      "away": "Carabobo FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-03",
+      "comp": "Ligue 1",
+      "home": "Toulouse",
+      "away": "Lille",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
     }
   ],
   "league_stats": {},
