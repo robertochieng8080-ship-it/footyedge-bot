@@ -431,6 +431,78 @@
       "away": "Lille",
       "market": "Double Chance DC 1X",
       "odd": 1.45
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "1st deild",
+      "home": "IF Fuglafjordur",
+      "away": "FC Hoyvik",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "First Division",
+      "home": "Energetik Mingechevir",
+      "away": "Zaqatala FK",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "CAF Confederations Cup",
+      "home": "Hilal Alsahil SC (Sdn)",
+      "away": "Welwalo Adigrat",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Ykkosliiga",
+      "home": "PK-35 Helsinki",
+      "away": "Ekenas Idrottsforening",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Ligue 1",
+      "home": "Lyon",
+      "away": "Auxerre",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Super League",
+      "home": "Arema FC",
+      "away": "Isenmulang Kalteng FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Super Lig",
+      "home": "Istanbul Basaksehir",
+      "away": "Galatasaray",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Arabian Gulf League",
+      "home": "Ittihad Kalba",
+      "away": "Al Ain FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-04",
+      "comp": "Bundesliga",
+      "home": "Stuttgart",
+      "away": "1. FC Cologne",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {},
