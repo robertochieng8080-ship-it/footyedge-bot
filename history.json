@@ -503,6 +503,78 @@
       "away": "1. FC Cologne",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "LaLiga",
+      "home": "Athletic Club",
+      "away": "Atletico Madrid",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Premier League",
+      "home": "Zenit Saint Petersburg",
+      "away": "CSKA Moscow",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Premier League",
+      "home": "Okzhetpes",
+      "away": "FC Ordabasy",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Serie A",
+      "home": "AS Roma",
+      "away": "Atalanta BC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Premiership",
+      "home": "Glasgow Rangers",
+      "away": "Motherwell FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Premier League",
+      "home": "Zenit Saint Petersburg",
+      "away": "CSKA Moscow",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Premier League",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Bundesliga",
+      "home": "Hoffenheim",
+      "away": "Dortmund",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-05",
+      "comp": "Bundesliga",
+      "home": "Paderborn",
+      "away": "Freiburg",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
     }
   ],
   "league_stats": {},
