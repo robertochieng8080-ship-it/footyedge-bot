@@ -575,6 +575,78 @@
       "away": "Freiburg",
       "market": "Double Chance DC 1X",
       "odd": 1.29
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "LaLiga",
+      "home": "Valencia",
+      "away": "Barcelona",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Super League",
+      "home": "Persib Bandung",
+      "away": "PSM Makassar",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Eredivisie",
+      "home": "SC Heerenveen",
+      "away": "AZ Alkmaar",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Vysshaya Liga",
+      "home": "FC Belshina Bobruisk",
+      "away": "FC Neman Grodno",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Premier League",
+      "home": "FC Dynamo Kyiv",
+      "away": "LNZ Cherkasy",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Premier League",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Serie A",
+      "home": "Parma",
+      "away": "Monza",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Vysshaya Liga",
+      "home": "FC Belshina Bobruisk",
+      "away": "FC Neman Grodno",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-09-06",
+      "comp": "Premier League",
+      "home": "Kitchee",
+      "away": "Eastern District",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
     }
   ],
   "league_stats": {},
