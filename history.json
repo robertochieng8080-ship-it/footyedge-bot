@@ -647,6 +647,78 @@
       "away": "Eastern District",
       "market": "Double Chance DC 1X",
       "odd": 1.45
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Allsvenskan",
+      "home": "Kalmar FF",
+      "away": "Djurgardens IF",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Ekstraklasa",
+      "home": "Pogon Szczecin",
+      "away": "Wisla Plock",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Premier League",
+      "home": "Hapoel Tel Aviv FC",
+      "away": "Hapoel Ramat Gan Givatayim FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Saudi Pro League",
+      "home": "Al Hilal SFC",
+      "away": "Neom SC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Premier League",
+      "home": "FK Rubin Kazan",
+      "away": "RFK Akhmat Grozny",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Vtora Liga",
+      "home": "FC Fratria Varna",
+      "away": "PFC Chernomorets Burgas",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Superliga",
+      "home": "FC Midtjylland",
+      "away": "FC Nordsjaelland",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Vysshaya Liga",
+      "home": "FC Isloch",
+      "away": "FK Arsenal Dzerzhinsk",
+      "market": "Double Chance DC 1X",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-07",
+      "comp": "Stars League",
+      "home": "AL Zawraa",
+      "away": "Al Kahrabaa SC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
     }
   ],
   "league_stats": {},
