@@ -719,6 +719,78 @@
       "away": "Al Kahrabaa SC",
       "market": "Double Chance DC 1X",
       "odd": 1.32
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Saudi Pro League",
+      "home": "Al Qadsiah",
+      "away": "Al-Ahli Saudi FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Premier League",
+      "home": "Zamalek SC",
+      "away": "Abo Qair Semads",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Championship",
+      "home": "Wrexham",
+      "away": "Burnley",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "UEFA Champions League",
+      "home": "AEK Athens",
+      "away": "LASK",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "UEFA Champions League",
+      "home": "Club Brugge",
+      "away": "Aston Villa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Championship",
+      "home": "Watford",
+      "away": "Preston",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Championship",
+      "home": "Blackburn",
+      "away": "Sheffield Utd",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "UEFA Champions League",
+      "home": "Club Brugge",
+      "away": "Aston Villa",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-08",
+      "comp": "Slovensky Pohar",
+      "home": "Novohrad Lucenec",
+      "away": "KFC Komarno",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
     }
   ],
   "league_stats": {},
