@@ -791,6 +791,78 @@
       "away": "KFC Komarno",
       "market": "Double Chance DC 1X",
       "odd": 1.3
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Premier League",
+      "home": "Kairat",
+      "away": "Zhenis Nur Sultan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "J.League Cup",
+      "home": "Biwako K",
+      "away": "Tokyo Verdy",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Liga Portugal",
+      "home": "Moreirense FC",
+      "away": "Benfica",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Superliga",
+      "home": "FK Neftchi Fargona",
+      "away": "FK Termez Surkhon",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Eredivisie",
+      "home": "FC Twente",
+      "away": "SC Telstar",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Premier League",
+      "home": "Pyramids FC",
+      "away": "El Gouna",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Macedonia Cup",
+      "home": "FK Novaci 2005",
+      "away": "GFK Ohrid Lihnidos",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "Liga Portugal",
+      "home": "Moreirense FC",
+      "away": "Benfica",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-09",
+      "comp": "J.League Cup",
+      "home": "Kochi United SC",
+      "away": "V-Varen Nagasaki",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
     }
   ],
   "league_stats": {},
