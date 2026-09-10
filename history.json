@@ -863,6 +863,78 @@
       "away": "V-Varen Nagasaki",
       "market": "Double Chance DC 1X",
       "odd": 1.34
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Ukraine Cup",
+      "home": "Nyva Vinnytsia",
+      "away": "FC Dynamo Kyiv",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Esiliiga B",
+      "home": "T. Legion",
+      "away": "FA Tartu Kalev",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Svenska Cup",
+      "home": "Haninge",
+      "away": "Djurgardens IF",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Russian Cup",
+      "home": "Dynamo Barnaul",
+      "away": "FC Chelyabinsk",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Arabian Gulf League",
+      "home": "Al Jazira (UAE)",
+      "away": "Al-Nasr Dubai CSC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Copa Bolivia",
+      "home": "Club Bolivar",
+      "away": "Independiente Petrolero",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Torneo DIMAYOR",
+      "home": "Boyaca Patriotas",
+      "away": "Barranquilla",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "Arabian Gulf League",
+      "home": "Dubai United",
+      "away": "Shabab Al Ahli Dubai",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-10",
+      "comp": "UEFA Champions League",
+      "home": "Como",
+      "away": "LEIPZIG",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
     }
   ],
   "league_stats": {},
