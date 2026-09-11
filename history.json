@@ -935,6 +935,78 @@
       "away": "LEIPZIG",
       "market": "Double Chance DC 1X",
       "odd": 1.29
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "CAF Confederations Cup",
+      "home": "AS Real Bamako",
+      "away": "Vitesse FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Ligue 1",
+      "home": "Rennes",
+      "away": "Marseille",
+      "market": "Over 1.5 Yes",
+      "odd": 1.46
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Premier League",
+      "home": "Imisli FK",
+      "away": "Neftchi Baku PFC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Super League",
+      "home": "Johor Darul Ta'zim",
+      "away": "Negeri Sembilan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Championship",
+      "home": "PSIS Semarang",
+      "away": "PSPS",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Ykkosliiga",
+      "home": "FC KTP Kotka",
+      "away": "JAPS",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Thai League 1",
+      "home": "Buriram United",
+      "away": "Chiangrai United",
+      "market": "Double Chance DC 1X",
+      "odd": 1.46
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Super League",
+      "home": "Johor Darul Ta'zim",
+      "away": "Negeri Sembilan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-11",
+      "comp": "Pro League",
+      "home": "Yellow-Red KV Mechelen",
+      "away": "RSC Anderlecht",
+      "market": "Double Chance DC 1X",
+      "odd": 1.25
     }
   ],
   "league_stats": {},
