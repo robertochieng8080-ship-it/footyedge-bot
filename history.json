@@ -1007,6 +1007,78 @@
       "away": "RSC Anderlecht",
       "market": "Double Chance DC 1X",
       "odd": 1.25
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Super League",
+      "home": "Melaka FC",
+      "away": "Kuching City FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Serie A",
+      "home": "Lazio",
+      "away": "AC Milan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Premier League",
+      "home": "LNZ Cherkasy",
+      "away": "FC Obolon Kyiv",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Serie A",
+      "home": "Genoa",
+      "away": "Frosinone",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Bundesliga",
+      "home": "Augsburg",
+      "away": "Leverkusen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Premier League",
+      "home": "Wofoo Tai Po",
+      "away": "Hong Kong FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Premier League",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "Bundesliga",
+      "home": "Augsburg",
+      "away": "Leverkusen",
+      "market": "Double Chance DC 1X",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-12",
+      "comp": "V-League 1",
+      "home": "Hanoi FC",
+      "away": "Song Lam Nghe An",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
     }
   ],
   "league_stats": {},
