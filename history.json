@@ -1079,6 +1079,78 @@
       "away": "Song Lam Nghe An",
       "market": "Double Chance DC 1X",
       "odd": 1.41
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Magyar Kupa",
+      "home": "Dorogi",
+      "away": "Ujpest",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "LaLiga",
+      "home": "Celta Vigo",
+      "away": "Malaga",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "K-League 2",
+      "home": "Busan",
+      "away": "Gimhae City",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Premier League",
+      "home": "Young Lions FC",
+      "away": "FC Jurong",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Eredivisie",
+      "home": "PEC Zwolle",
+      "away": "Feyenoord",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Championship",
+      "home": "Sheffield Utd",
+      "away": "Wolves",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Allsvenskan",
+      "home": "Malmo FF",
+      "away": "Orgryte",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Eredivisie",
+      "home": "SC Heerenveen",
+      "away": "SC Telstar",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-13",
+      "comp": "Eredivisie",
+      "home": "PEC Zwolle",
+      "away": "Feyenoord",
+      "market": "Double Chance DC X2",
+      "odd": 1.33
     }
   ],
   "league_stats": {},
