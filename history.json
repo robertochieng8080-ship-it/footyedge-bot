@@ -1151,6 +1151,78 @@
       "away": "Feyenoord",
       "market": "Double Chance DC X2",
       "odd": 1.33
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Premier League",
+      "home": "FC Shakhtar Donetsk",
+      "away": "Chernomorets Odessa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Besta deild",
+      "home": "Vikingur Reykjavik",
+      "away": "Keflavik IF",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Super League 2",
+      "home": "Panionios",
+      "away": "Apollon Kalamarias",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Premier League",
+      "home": "Safa",
+      "away": "Sabah Masazir",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Premier League",
+      "home": "FC Dynamo Kyiv",
+      "away": "Epitsentr Kamianets-Podilskyi",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Premier League",
+      "home": "Geylang International FC",
+      "away": "Tanjong Pagar United FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Eliteserien",
+      "home": "Bodoe/Glimt",
+      "away": "Sandefjord Fotball",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Premier League",
+      "home": "Maccabi Tel Aviv FC",
+      "away": "Hapoel Tel Aviv FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-14",
+      "comp": "Division 1",
+      "home": "AL Ula",
+      "away": "Jeddah Club",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
     }
   ],
   "league_stats": {},
