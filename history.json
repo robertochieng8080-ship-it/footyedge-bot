@@ -1223,6 +1223,78 @@
       "away": "Jeddah Club",
       "market": "Double Chance DC 1X",
       "odd": 1.28
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "LaLiga",
+      "home": "Rayo Vallecano",
+      "away": "Espanyol",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Premiership",
+      "home": "Falkirk FC",
+      "away": "Hearts",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Championship",
+      "home": "Middlesbrough",
+      "away": "Millwall",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "AFC Champions League Elite",
+      "home": "Gamba Osaka",
+      "away": "Cong An Ha Noi FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Cup",
+      "home": "FC Andijon",
+      "away": "Olimpik Mobiuz",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "EFL Cup",
+      "home": "Reading",
+      "away": "Brentford",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Championship",
+      "home": "Middlesbrough",
+      "away": "Millwall",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Premiership",
+      "home": "Motherwell FC",
+      "away": "Aberdeen FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-15",
+      "comp": "Coppa Italia",
+      "home": "Genoa",
+      "away": "FC Sudtirol Bolzano",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
     }
   ],
   "league_stats": {},
