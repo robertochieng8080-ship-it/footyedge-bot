@@ -1295,6 +1295,78 @@
       "away": "FC Sudtirol Bolzano",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "LaLiga",
+      "home": "Levante",
+      "away": "Athletic Club",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "AFC Champions League Elite",
+      "home": "Port FC",
+      "away": "Vissel Kobe",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "Ukraine Cup",
+      "home": "Prykarpattya Ivano-Frankivsk",
+      "away": "FC Kharkiv",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "UEFA Europa League",
+      "home": "RSC Anderlecht",
+      "away": "Lyon",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "UEFA Europa League",
+      "home": "FC Ararat Armenia",
+      "away": "Sparta Prague",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "UEFA Europa League",
+      "home": "AC Milan",
+      "away": "Benfica",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "Premier League",
+      "home": "Rivers United FC",
+      "away": "Warri Wolves FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "Mizoram Premier League",
+      "home": "Aizawl FC",
+      "away": "Mizoram Police FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-16",
+      "comp": "EFL Cup",
+      "home": "Man Utd",
+      "away": "Brighton",
+      "market": "Double Chance DC X2",
+      "odd": 1.44
     }
   ],
   "league_stats": {},
