@@ -1302,7 +1302,9 @@
       "home": "Levante",
       "away": "Athletic Club",
       "market": "Over 1.5 Yes",
-      "odd": 1.42
+      "odd": 1.42,
+      "result": "LOST",
+      "score": "0-0"
     },
     {
       "date": "2026-09-16",
@@ -1367,8 +1369,92 @@
       "away": "Brighton",
       "market": "Double Chance DC X2",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "Greece Cup",
+      "home": "Kalamata",
+      "away": "Larissa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "AFC Champions League Two",
+      "home": "Shanghai Shenhua",
+      "away": "Tampines Rovers FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "Premium Liiga",
+      "home": "Levadia Tallinn",
+      "away": "Tartu Tammeka",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "UEFA Europa League",
+      "home": "Celtic",
+      "away": "Ferencvaros",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "UEFA Europa League",
+      "home": "Real Sociedad",
+      "away": "Bournemouth",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "AFC Champions League Two",
+      "home": "Shanghai Shenhua",
+      "away": "Tampines Rovers FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "UEFA Europa League",
+      "home": "Viktoria Plzen",
+      "away": "Union Saint-Gilloise",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "First Division",
+      "home": "Al Aqaba",
+      "away": "Amman FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-17",
+      "comp": "AFC Champions League Two",
+      "home": "Adelaide United FC",
+      "away": "Wofoo Tai Po",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
     }
   ],
-  "league_stats": {},
-  "market_stats": {}
+  "league_stats": {
+    "LaLiga": {
+      "won": 0,
+      "total": 1,
+      "win_rate": 0.0
+    }
+  },
+  "market_stats": {
+    "Over 1.5 Yes": {
+      "won": 0,
+      "total": 1,
+      "win_rate": 0.0
+    }
+  }
 }
