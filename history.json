@@ -1441,6 +1441,78 @@
       "away": "Wofoo Tai Po",
       "market": "Double Chance DC 1X",
       "odd": 1.4
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Ligue 2",
+      "home": "CA Batna",
+      "away": "JS Azazga",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Eredivisie",
+      "home": "FC Groningen",
+      "away": "PEC Zwolle",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Premier League",
+      "home": "FC Noah Yerevan",
+      "away": "FC Van Charentsavan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "1st Division",
+      "home": "Pafos",
+      "away": "AEL Limassol",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Bundesliga",
+      "home": "Bayern Munich",
+      "away": "UNION BERLIN",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Vysshaya Liga",
+      "home": "Maxline Vitebsk",
+      "away": "FK Arsenal Dzerzhinsk",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Premier League",
+      "home": "Brentford",
+      "away": "Chelsea",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "Mizoram Premier League",
+      "home": "Chanmari FC",
+      "away": "Ramthar Veng FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-18",
+      "comp": "FNL",
+      "home": "MFK Karvina",
+      "away": "Slavia Kromeriz",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
