@@ -1513,6 +1513,78 @@
       "away": "Slavia Kromeriz",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Ligue 1",
+      "home": "Paris",
+      "away": "Strasbourg",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Super League",
+      "home": "FC Luzern",
+      "away": "Grasshopper Club Zurich",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Taca de Portugal",
+      "home": "Imortal DC",
+      "away": "CD Tondela",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Pro League Cup",
+      "home": "Hatta SC",
+      "away": "Shabab Al Ahli Dubai",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Premier League",
+      "home": "Everton",
+      "away": "Ipswich",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Eliteserien",
+      "home": "Kristiansund BK",
+      "away": "Rosenborg BK",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Championship",
+      "home": "Millwall",
+      "away": "West Ham",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Liga 2",
+      "home": "CSM Slatina",
+      "away": "CSC 1599 Selimbar",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-09-19",
+      "comp": "Football League",
+      "home": "Arambagh KS",
+      "away": "Bashundhara Kings",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
