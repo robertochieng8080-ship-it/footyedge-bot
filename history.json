@@ -1585,6 +1585,78 @@
       "away": "Bashundhara Kings",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Super League",
+      "home": "Persijap Jepara",
+      "away": "Persib Bandung",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Premiership",
+      "home": "Celtic",
+      "away": "Glasgow Rangers",
+      "market": "Over 1.5 Yes",
+      "odd": 1.22
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Serie A",
+      "home": "ACF Fiorentina",
+      "away": "Napoli",
+      "market": "Over 1.5 Yes",
+      "odd": 1.22
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Serie A",
+      "home": "AC Milan",
+      "away": "US Lecce",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Thai League 1",
+      "home": "Chonburi",
+      "away": "Buriram United",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Pro League",
+      "home": "Royal Antwerp FC",
+      "away": "Union Saint-Gilloise",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Premier League",
+      "home": "Man City",
+      "away": "Sunderland",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Super League",
+      "home": "Persijap Jepara",
+      "away": "Persib Bandung",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-20",
+      "comp": "Ligue 1",
+      "home": "Nice",
+      "away": "Lille",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
     }
   ],
   "league_stats": {
