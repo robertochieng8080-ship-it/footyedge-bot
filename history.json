@@ -1657,6 +1657,78 @@
       "away": "Lille",
       "market": "Double Chance DC 1X",
       "odd": 1.38
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Pro Liga",
+      "home": "Lochin",
+      "away": "Respublika Football Academy",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "3. Division, Group 2",
+      "home": "Nardo FK",
+      "away": "Ranheim 2",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Prva Liga",
+      "home": "FK Javor Ivanjica",
+      "away": "FK Proleter Zrenjanin 023",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Asian Games, Women",
+      "home": "Vietnam Women",
+      "away": "hailand Women",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Serie C, Group B",
+      "home": "Spezia Calcio",
+      "away": "Vis Pesaro 1898",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Asian Games, Women",
+      "home": "Vietnam Women",
+      "away": "hailand Women",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "Pro Liga",
+      "home": "Lochin",
+      "away": "Respublika Football Academy",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "U21 Professional Development League",
+      "home": "Bolton",
+      "away": "Queens Park Rangers",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-21",
+      "comp": "3. Division, Group 6",
+      "home": "Lyn 1896 FK II",
+      "away": "Sarpsborg 08 2",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
     }
   ],
   "league_stats": {
