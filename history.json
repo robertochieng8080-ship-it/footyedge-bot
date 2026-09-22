@@ -1729,6 +1729,78 @@
       "away": "Sarpsborg 08 2",
       "market": "Double Chance DC 1X",
       "odd": 1.4
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Liga 2",
+      "home": "Targu Mures",
+      "away": "CS Dinamo Bucuresti",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Presidents Cup",
+      "home": "Al Urooba UAE",
+      "away": "Dubai City FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Challenge Cup",
+      "home": "Kelty Hearts FC",
+      "away": "Heart of Midlothian B",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Challenge Cup",
+      "home": "Elgin City FC",
+      "away": "Dundee FC B",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "FA Cup",
+      "home": "Dag & Red",
+      "away": "Waltham Abbey",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Challenge Cup",
+      "home": "Gala Fairydean Rovers",
+      "away": "Spartans FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Challenge Cup",
+      "home": "Kelty Hearts FC",
+      "away": "Heart of Midlothian B",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "FA Cup",
+      "home": "Worksop",
+      "away": "Telford",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-09-22",
+      "comp": "Copa Bolivia",
+      "home": "CA Nacional Potosi",
+      "away": "Real Potosi",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
