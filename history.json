@@ -1801,6 +1801,78 @@
       "away": "Real Potosi",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "U19",
+      "home": "LNZ Cherkasy",
+      "away": "Lviv",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Copa Uruguay",
+      "home": "Liverpool Montevideo",
+      "away": "Colon FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Liga Alef",
+      "home": "Hapoel Marmorek FC",
+      "away": "Shimshon Tel Aviv",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Gulf Cup",
+      "home": "Iraq",
+      "away": "Oman",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Asian Games",
+      "home": "Kyrgyzstan U23",
+      "away": "Hong Kong",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Primera Division",
+      "home": "Luis Angel Firpo",
+      "away": "CD Cacahuatique",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Serie B, Women",
+      "home": "ACF Brescia W",
+      "away": "Venezia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "Asian Games",
+      "home": "Kyrgyzstan U23",
+      "away": "Hong Kong",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-09-23",
+      "comp": "National League Cup",
+      "home": "Boreham",
+      "away": "Everton Reserves",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
     }
   ],
   "league_stats": {
