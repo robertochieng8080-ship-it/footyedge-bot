@@ -1873,6 +1873,78 @@
       "away": "Everton Reserves",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Concacaf Nations League",
+      "home": "Haiti",
+      "away": "Trinidad & Tobago",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Premier League",
+      "home": "Rivers United FC",
+      "away": "Kun Khalifat FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "SRL Club Friendlies",
+      "home": "Sparta Rotterdam SRL",
+      "away": "Broendby Srl",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Cameroon",
+      "away": "Comoros",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Int. Friendly Games",
+      "home": "China",
+      "away": "Maldives",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Club Friendly Games",
+      "home": "SC Austria Lustenau",
+      "away": "Schwarz-Weiss Bregenz",
+      "market": "Double Chance DC 1X",
+      "odd": 1.46
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "UEFA Nations League",
+      "home": "Norway",
+      "away": "Denmark",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "Concacaf Nations League",
+      "home": "Puerto Rico",
+      "away": "Guyana",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-09-24",
+      "comp": "UEFA Nations League",
+      "home": "Serbia",
+      "away": "Greece",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
