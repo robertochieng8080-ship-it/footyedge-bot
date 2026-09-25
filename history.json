@@ -1945,6 +1945,78 @@
       "away": "Greece",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Rwanda",
+      "away": "Liberia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Burkina Faso",
+      "away": "Benin",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Morocco",
+      "away": "Gabon",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "UEFA Nations League",
+      "home": "Sweden",
+      "away": "Romania",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Egypt",
+      "away": "Angola",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "UEFA Nations League",
+      "home": "Hungary",
+      "away": "Ukraine",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "UEFA Nations League",
+      "home": "Turkey",
+      "away": "France",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Malawi",
+      "away": "South Sudan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-25",
+      "comp": "Club Friendly Games",
+      "home": "FC Penafiel",
+      "away": "Deportivo A Coruna",
+      "market": "Double Chance DC 1X",
+      "odd": 1.25
     }
   ],
   "league_stats": {
