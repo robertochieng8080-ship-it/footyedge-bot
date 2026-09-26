@@ -2017,6 +2017,78 @@
       "away": "Deportivo A Coruna",
       "market": "Double Chance DC 1X",
       "odd": 1.25
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Gulf Cup",
+      "home": "Kuwait",
+      "away": "Iraq",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Challenge Cup",
+      "home": "Alloa Athletic FC",
+      "away": "Gala Fairydean Rovers",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Championship",
+      "home": "Ards FC",
+      "away": "Strabane Athletic FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "UEFA Nations League",
+      "home": "Faroe Islands",
+      "away": "Kazakhstan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Challenge Cup",
+      "home": "Hamilton Academical FC",
+      "away": "Kilmarnock FC B",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "UEFA Nations League",
+      "home": "North Macedonia",
+      "away": "Switzerland",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Kenya",
+      "away": "Eritrea",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "Eerste Divisie",
+      "home": "Heracles Almelo",
+      "away": "Vitesse Arnhem",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-09-26",
+      "comp": "UEFA Nations League",
+      "home": "North Macedonia",
+      "away": "Switzerland",
+      "market": "Double Chance DC X2",
+      "odd": 1.42
     }
   ],
   "league_stats": {
