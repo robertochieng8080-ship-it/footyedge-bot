@@ -2305,6 +2305,78 @@
       "away": "Vietnam",
       "market": "Double Chance DC 1X",
       "odd": 1.32
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Malta U21",
+      "away": "Germany U21",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "Liga Alef",
+      "home": "AS Nordia Jerusalem",
+      "away": "Hapoel Hadera FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "SRL Club Friendlies",
+      "home": "Royal Antwerp FC Srl",
+      "away": "Broendby Srl",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "Int. Friendly Games",
+      "home": "Seychelles",
+      "away": "Sri Lanka",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "Premier League",
+      "home": "Medeama SC",
+      "away": "Port City FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Poland U21",
+      "away": "Sweden U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Scotland U21",
+      "away": "Azerbaijan U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Malta U21",
+      "away": "Germany U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-09-30",
+      "comp": "Primera Division",
+      "home": "Montevideo City Torque",
+      "away": "Penarol Montevideo",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
