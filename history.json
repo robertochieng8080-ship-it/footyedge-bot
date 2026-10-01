@@ -2377,6 +2377,78 @@
       "away": "Penarol Montevideo",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "Int. Friendly Games",
+      "home": "Uzbekistan",
+      "away": "Syria",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "Club Friendly Games",
+      "home": "Stuttgart",
+      "away": "Greuther Furth",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "FIFA ASEAN Cup",
+      "home": "Indonesia",
+      "away": "Bangladesh",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "National League",
+      "home": "MS Ashdod",
+      "away": "Maccabi Herzliya",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "Primera Division",
+      "home": "CD Fuerte Morazan",
+      "away": "Luis Angel Firpo",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "UEFA Nations League",
+      "home": "Wales",
+      "away": "Norway",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "Concacaf Nations League",
+      "home": "Dom. Republic",
+      "away": "Haiti",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "U19 Friendly Games",
+      "home": "France U19",
+      "away": "Turkey U19",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-10-01",
+      "comp": "Int. Friendly Games",
+      "home": "Uzbekistan",
+      "away": "Syria",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
     }
   ],
   "league_stats": {
