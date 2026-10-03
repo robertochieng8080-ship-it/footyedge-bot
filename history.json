@@ -2521,6 +2521,78 @@
       "away": "HERTHA",
       "market": "Double Chance DC 1X",
       "odd": 1.34
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "FA Cup",
+      "home": "Dorking Wanderers",
+      "away": "Chatham",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "Cymru Premier",
+      "home": "The New Saints FC",
+      "away": "Cambrian & Clydach Vale",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "FA Cup",
+      "home": "Ebbsfleet",
+      "away": "Sholing",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "FA Cup",
+      "home": "Weymouth",
+      "away": "South East Dons",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "UEFA Nations League",
+      "home": "Croatia",
+      "away": "England",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "Club Friendly Games",
+      "home": "SC Austria Lustenau",
+      "away": "Schalke 04",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "UEFA Nations League",
+      "home": "Croatia",
+      "away": "England",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "Cymru Premier",
+      "home": "The New Saints FC",
+      "away": "Cambrian & Clydach Vale",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-03",
+      "comp": "UEFA Nations League",
+      "home": "Estonia",
+      "away": "Luxembourg",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
     }
   ],
   "league_stats": {
