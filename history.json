@@ -2665,6 +2665,78 @@
       "away": "Israel",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "3. Division, Group 4",
+      "home": "Odds BK 2",
+      "away": "Viking FK 2",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "Concacaf Nations League",
+      "home": "Bermuda",
+      "away": "Barbados",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "Concacaf Nations League",
+      "home": "Martinique",
+      "away": "El Salvador",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "Concacaf Nations League",
+      "home": "Guadeloupe",
+      "away": "Saint Lucia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "Azadegan League",
+      "home": "Niroye Zamini Tehran",
+      "away": "Sanat Mes Kerman FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "Primera LPF",
+      "home": "Estudiantes de la Plata",
+      "away": "Gimnasia y Esgrima Mendoza",
+      "market": "Double Chance DC 1X",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Sweden U21",
+      "away": "North Macedonia U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Montenegro U21",
+      "away": "Armenia U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-05",
+      "comp": "UEFA Nations League",
+      "home": "Bosnia & Herzegovina",
+      "away": "Poland",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
