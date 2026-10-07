@@ -2809,6 +2809,78 @@
       "away": "Czech U21",
       "market": "Double Chance DC 1X",
       "odd": 1.34
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Canadian Premier League",
+      "home": "Forge Hamilton",
+      "away": "Pacific",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Primera Division",
+      "home": "Coatepeque",
+      "away": "S. L. Cotzumalguapa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "ASEAN Club Championship",
+      "home": "Kuching City FC",
+      "away": "Tampines Rovers FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Superliga",
+      "home": "FK Neftchi Fargona",
+      "away": "Xorazm Fk Urganch",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Turkiye Kupasi",
+      "home": "Karacabey",
+      "away": "Galata Spor Kulubu",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Copa Venezuela",
+      "home": "Deportivo Miranda",
+      "away": "Atletico Avila FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "League Cup",
+      "home": "Asyut Petroleum",
+      "away": "AL Ahly SC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.48
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Superliga",
+      "home": "FK Neftchi Fargona",
+      "away": "Xorazm Fk Urganch",
+      "market": "Double Chance DC X2",
+      "odd": 1.46
+    },
+    {
+      "date": "2026-10-07",
+      "comp": "Primera Division",
+      "home": "Coatepeque",
+      "away": "S. L. Cotzumalguapa",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
     }
   ],
   "league_stats": {
