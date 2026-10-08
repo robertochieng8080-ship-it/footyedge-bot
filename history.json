@@ -2881,6 +2881,78 @@
       "away": "S. L. Cotzumalguapa",
       "market": "Double Chance DC 1X",
       "odd": 1.4
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Pro Liga",
+      "home": "Orol Nukus",
+      "away": "PFC Terdu",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Serie B",
+      "home": "Atletico Rojiblanco",
+      "away": "San Antonio FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Botola Pro D1",
+      "home": "AS Far Rabat",
+      "away": "Widad Sp. Tamara",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Premier League",
+      "home": "Safa",
+      "away": "Reyady Abaseya",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Premier League",
+      "home": "AL Ansar",
+      "away": "Al Hikma",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Stars League",
+      "home": "AL Wakrah SC",
+      "away": "Al-Gharafa SC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "Turkiye Kupasi",
+      "home": "Denizli Idmanyurdu 1959 Spor Kulubu",
+      "away": "Serik",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "ASEAN Club Championship",
+      "home": "Lion City Sailors FC",
+      "away": "Cong An Ha Noi FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.46
+    },
+    {
+      "date": "2026-10-08",
+      "comp": "1. CFL",
+      "home": "FK Mornar",
+      "away": "Jezero",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
