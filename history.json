@@ -2953,6 +2953,78 @@
       "away": "Jezero",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Eredivisie",
+      "home": "PSV",
+      "away": "SC Heerenveen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Championship",
+      "home": "West Ham",
+      "away": "QPR",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Super League",
+      "home": "Isenmulang Kalteng FC",
+      "away": "Persebaya Surabaya",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Bundesliga",
+      "home": "Dortmund",
+      "away": "Werder Bremen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Chinese Super League",
+      "home": "Qingdao Hainiu",
+      "away": "Beijing Guoan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Premier League",
+      "home": "Veres Rivne",
+      "away": "FC Shakhtar Donetsk",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Saudi Pro League",
+      "home": "Al-Kholood",
+      "away": "Al Qadsiah",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Pro League",
+      "home": "Persepolis FC",
+      "away": "Sanat Naft Abadan FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-09",
+      "comp": "Super Lig",
+      "home": "Galatasaray",
+      "away": "Kasimpasa Istanbul",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
