@@ -3025,6 +3025,78 @@
       "away": "Kasimpasa Istanbul",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Thai League 1",
+      "home": "Pathum United",
+      "away": "Ayutthaya United FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Premier League",
+      "home": "Arsenal",
+      "away": "Leeds",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Premier League",
+      "home": "Mathare United",
+      "away": "Aps Bomet FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Premier League",
+      "home": "Sunderland",
+      "away": "Brighton",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Premier League",
+      "home": "Chelsea",
+      "away": "Bournemouth",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Bundesliga",
+      "home": "Augsburg",
+      "away": "Bayern Munich",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Bundesliga",
+      "home": "LEIPZIG",
+      "away": "Eintracht Fr",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Premier League",
+      "home": "Man Utd",
+      "away": "Tottenham",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-10",
+      "comp": "Serie A",
+      "home": "Genoa",
+      "away": "ACF Fiorentina",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
     }
   ],
   "league_stats": {
