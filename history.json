@@ -3169,6 +3169,78 @@
       "away": "Man City",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "AFC Champions League Elite",
+      "home": "Tractor Sport Club",
+      "away": "Al-Shamal",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "Premier League",
+      "home": "Pyramids FC",
+      "away": "Ceramica Cleopatra",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "AFC Champions League Elite",
+      "home": "Al-Nassr FC",
+      "away": "FK Neftchi Fargona",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "Superliga",
+      "home": "AGF Aarhus",
+      "away": "SonderjyskE",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "Brasileiro Serie B",
+      "home": "Novorizontino",
+      "away": "Ponte Preta",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "Brasileiro Serie B",
+      "home": "Novorizontino",
+      "away": "Ponte Preta",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "AFC Champions League Elite",
+      "home": "Pakhtakor",
+      "away": "Al Qadsiah",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "National League",
+      "home": "Hapoel Kfar Saba FC",
+      "away": "MS Ashdod",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-12",
+      "comp": "Premier League",
+      "home": "Coventry City",
+      "away": "Newcastle",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
     }
   ],
   "league_stats": {
