@@ -3241,6 +3241,78 @@
       "away": "Newcastle",
       "market": "Double Chance DC 1X",
       "odd": 1.32
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Championship",
+      "home": "Birmingham",
+      "away": "Preston",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "UEFA Champions League",
+      "home": "Arsenal",
+      "away": "Lille",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Ligue 2",
+      "home": "ASM Oran",
+      "away": "Jrb Taghit",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "UEFA Champions League",
+      "home": "Lens",
+      "away": "Sporting",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Championship",
+      "home": "Cape Town City FC",
+      "away": "The Bees FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Premiership",
+      "home": "Kaizer Chiefs",
+      "away": "Stellenbosch FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Championship",
+      "home": "Stoke",
+      "away": "Middlesbrough",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Slovensky Pohar",
+      "home": "Svaty Jur",
+      "away": "Nove Zamky",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-10-13",
+      "comp": "Championship",
+      "home": "Burnley",
+      "away": "Charlton",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
