@@ -3313,6 +3313,78 @@
       "away": "Charlton",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "Slovensky Pohar",
+      "home": "Vranov Nad Toplou",
+      "away": "Dukla Banska Bystrica",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "1. Lig",
+      "home": "Umraniyespor",
+      "away": "Boluspor",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "Indian Super League",
+      "home": "Punjab FC",
+      "away": "Odisha FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "UEFA Champions League",
+      "home": "Bodoe/Glimt",
+      "away": "Dortmund",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "1st Division",
+      "home": "Stabaek IF",
+      "away": "Sandnes Ulf",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "Slovensky Pohar",
+      "home": "STK 1914 Samorin",
+      "away": "FK Humenne",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "Slovensky Pohar",
+      "home": "PFK Piestany",
+      "away": "FC Spartak Trnava",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "AFC Champions League Elite",
+      "home": "Kashiwa",
+      "away": "Port FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-14",
+      "comp": "AFC Champions League Elite",
+      "home": "Vissel Kobe",
+      "away": "Jeonbuk Hyundai Motors FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
     }
   ],
   "league_stats": {
