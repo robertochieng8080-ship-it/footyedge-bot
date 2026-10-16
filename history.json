@@ -3457,6 +3457,78 @@
       "away": "Lillestrom SK",
       "market": "Double Chance DC 1X",
       "odd": 1.4
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "FAW Welsh Cup",
+      "home": "Connah's Quay Nomads FC",
+      "away": "Porthmadog FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Superliga",
+      "home": "FC Dinamo Bucuresti 1948",
+      "away": "FC Botosani",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Ligue 1",
+      "home": "Le Mans",
+      "away": "Toulouse",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Canadian Premier League",
+      "home": "FC Supra Du Quebec",
+      "away": "York United",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Premiership",
+      "home": "Larne FC",
+      "away": "Coleraine FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Premier Division",
+      "home": "Bohemians Dublin FC",
+      "away": "Waterford FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "Primera Division",
+      "home": "CA Cerro",
+      "away": "Cerro Largo",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "HNL",
+      "home": "Rudes",
+      "away": "Rijeka",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-10-16",
+      "comp": "FAW Welsh Cup",
+      "home": "Connah's Quay Nomads FC",
+      "away": "Porthmadog FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
     }
   ],
   "league_stats": {
