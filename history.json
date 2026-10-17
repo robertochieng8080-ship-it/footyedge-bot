@@ -3529,6 +3529,78 @@
       "away": "Porthmadog FC",
       "market": "Double Chance DC 1X",
       "odd": 1.34
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Serie A",
+      "home": "Venezia",
+      "away": "Napoli",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Premier League",
+      "home": "Man City",
+      "away": "Ipswich",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Premier League",
+      "home": "Fulham",
+      "away": "Hull City",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Veikkausliiga",
+      "home": "HJK Helsinki",
+      "away": "IF Gnistan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Bulgarian Cup",
+      "home": "Marek Dupnica",
+      "away": "PFC Cherno More Varna",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Veikkausliiga",
+      "home": "HJK Helsinki",
+      "away": "IF Gnistan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Premier League",
+      "home": "Everton",
+      "away": "Chelsea",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Championship",
+      "home": "Millwall",
+      "away": "Lincoln City",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-17",
+      "comp": "Serie A",
+      "home": "Venezia",
+      "away": "Napoli",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
     }
   ],
   "league_stats": {
