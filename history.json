@@ -3601,6 +3601,78 @@
       "away": "Napoli",
       "market": "Double Chance DC 1X",
       "odd": 1.33
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Premier League",
+      "home": "Leeds",
+      "away": "Man Utd",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Bundesliga",
+      "home": "Leverkusen",
+      "away": "Freiburg",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Premier League",
+      "home": "FK Dinamo Moscow",
+      "away": "CSKA Moscow",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Premier League",
+      "home": "Kakamega Homeboyz",
+      "away": "Ulinzi Stars",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Ligue 1",
+      "home": "Lorient",
+      "away": "Monaco",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Eredivisie",
+      "home": "SC Cambuur",
+      "away": "AZ Alkmaar",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Premier League",
+      "home": "FK Dinamo Moscow",
+      "away": "CSKA Moscow",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Chinese Super League",
+      "home": "Beijing Guoan",
+      "away": "Qingdao West Coast",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-18",
+      "comp": "Ligue 1",
+      "home": "Lorient",
+      "away": "Monaco",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
     }
   ],
   "league_stats": {
