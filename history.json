@@ -3745,6 +3745,78 @@
       "away": "Coventry City",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "CONMEBOL Sudamericana",
+      "home": "CR Vasco da Gama",
+      "away": "Boca Juniors",
+      "market": "Over 1.5 Yes",
+      "odd": 1.22
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "League Cup",
+      "home": "Carrick Rangers",
+      "away": "Newry City AFC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "UEFA Champions League",
+      "home": "Napoli",
+      "away": "Bodoe/Glimt",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "UEFA Champions League",
+      "home": "Man City",
+      "away": "AEK Athens",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "Liga DIMAYOR",
+      "home": "Cucuta",
+      "away": "Nacional Medellin",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "League Cup",
+      "home": "Carrick Rangers",
+      "away": "Newry City AFC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "Croatian Cup",
+      "home": "Karlovac 1919",
+      "away": "Rijeka",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "UEFA Champions League",
+      "home": "Man City",
+      "away": "AEK Athens",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-20",
+      "comp": "League One",
+      "home": "Luton",
+      "away": "Barnsley",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
     }
   ],
   "league_stats": {
