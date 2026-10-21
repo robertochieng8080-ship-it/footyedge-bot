@@ -3817,6 +3817,78 @@
       "away": "Barnsley",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "CONMEBOL Sudamericana",
+      "home": "Montevideo City Torque",
+      "away": "Atletico Mineiro MG",
+      "market": "Over 1.5 Yes",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "J2 League",
+      "home": "Vegalta",
+      "away": "Imabari",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "Premier League",
+      "home": "Lion City Sailors FC",
+      "away": "Tampines Rovers FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "DBU Pokalen",
+      "home": "Vanloese IF",
+      "away": "Nykoebing FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "UEFA Champions League",
+      "home": "Bayern Munich",
+      "away": "Arsenal",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "UEFA Champions League",
+      "home": "Sporting",
+      "away": "LASK",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "J2 League",
+      "home": "Vegalta",
+      "away": "Imabari",
+      "market": "Double Chance DC 1X",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "Division 1",
+      "home": "Jeddah Club",
+      "away": "Al-Jabalain",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-21",
+      "comp": "Premier League",
+      "home": "Mosta",
+      "away": "Valletta",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
