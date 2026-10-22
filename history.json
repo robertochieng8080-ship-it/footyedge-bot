@@ -3889,6 +3889,78 @@
       "away": "Valletta",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Conference League",
+      "home": "Ajax",
+      "away": "Atalanta BC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Europa League",
+      "home": "Olympiacos",
+      "away": "Sparta Prague",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Europa League",
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Conference League",
+      "home": "Pafos",
+      "away": "Riga FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Conference League",
+      "home": "FC Iberia 1999",
+      "away": "Mjallby AIF",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Conference League",
+      "home": "FC Iberia 1999",
+      "away": "Mjallby AIF",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Europa League",
+      "home": "Juventus",
+      "away": "Rennes",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Conference League",
+      "home": "FC Nordsjaelland",
+      "away": "PFC CSKA Sofia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-22",
+      "comp": "UEFA Europa League",
+      "home": "NK Celje",
+      "away": "FC Salzburg",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
