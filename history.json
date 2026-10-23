@@ -3961,6 +3961,78 @@
       "away": "FC Salzburg",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Premier League",
+      "home": "Ipswich",
+      "away": "Nottm Forest",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "CAF Confederations Cup",
+      "home": "Primeiro de Agosto",
+      "away": "DC Virunga",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "1. MFL",
+      "home": "FK Sileks Kratovo",
+      "away": "KF Shkendija Haracine",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Premier League",
+      "home": "Kazma",
+      "away": "Al Salibikhaet",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Championship",
+      "home": "Bolton",
+      "away": "Middlesbrough",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Championship",
+      "home": "Bolton",
+      "away": "Middlesbrough",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Kategoria e Pare",
+      "home": "Flamurtari Vlore",
+      "away": "KS Beselidhja",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Omani League",
+      "home": "Al Shabab",
+      "away": "Samail SC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-23",
+      "comp": "Premier League",
+      "home": "FC Dynamo Kyiv",
+      "away": "FK Kudrivka",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
