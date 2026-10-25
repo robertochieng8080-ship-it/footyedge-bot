@@ -4105,6 +4105,78 @@
       "away": "Bandari",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Bundesliga",
+      "home": "SK Sturm Graz",
+      "away": "SV Ried",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Premier League",
+      "home": "CSKA Moscow",
+      "away": "FK Spartak Moscow",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Eredivisie",
+      "home": "PSV",
+      "away": "Feyenoord",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "CAF Confederations Cup",
+      "home": "Singida Black Stars SC",
+      "away": "Tusker",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Serie A",
+      "home": "Atalanta BC",
+      "away": "Frosinone",
+      "market": "Over 1.5 Yes",
+      "odd": 1.21
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Ligue 1",
+      "home": "Toulouse",
+      "away": "Troyes",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "V-League 1",
+      "home": "Ninh Binh FC",
+      "away": "Cong an TP Ho Chi Minh",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Serie A",
+      "home": "Genoa",
+      "away": "Venezia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-10-25",
+      "comp": "Serie A",
+      "home": "Udinese",
+      "away": "AC Milan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
     }
   ],
   "league_stats": {
