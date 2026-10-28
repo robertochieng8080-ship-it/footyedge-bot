@@ -4321,6 +4321,78 @@
       "away": "Villarreal",
       "market": "Double Chance DC 1X",
       "odd": 1.25
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "EFL Cup",
+      "home": "Bournemouth",
+      "away": "Aston Villa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "DFB Pokal",
+      "home": "Dynamo Dresden",
+      "away": "Schalke 04",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "Copa del Rey",
+      "home": "Anaitasuna",
+      "away": "Alaves",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "Serie A",
+      "home": "AC Milan",
+      "away": "Bologna",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "Copa del Rey",
+      "home": "Salamanca CF",
+      "away": "Celta Vigo",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "EFL Cup",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "EFL Cup",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "Premier League",
+      "home": "Kakamega Homeboyz",
+      "away": "Gor Mahia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-28",
+      "comp": "EFL Cup",
+      "home": "Man City",
+      "away": "Brighton",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
     }
   ],
   "league_stats": {
