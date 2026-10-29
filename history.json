@@ -4393,6 +4393,78 @@
       "away": "Brighton",
       "market": "Double Chance DC 1X",
       "odd": 1.27
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Ukraine Cup",
+      "home": "Karpaty Lviv",
+      "away": "Oleksandriya",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Ukraine Cup",
+      "home": "FC Zorya Luhansk",
+      "away": "FC Kryvbas Kriviy Rih",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "DBU Pokalen",
+      "home": "Aarhus Fremad",
+      "away": "FC Copenhagen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Copa del Rey",
+      "home": "Guijuelo",
+      "away": "Sporting Gijon",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Copa del Rey",
+      "home": "Ribadesella CF",
+      "away": "Racing Santander",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Premier League",
+      "home": "Kenya Police FC",
+      "away": "Ulinzi Stars",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Copa del Rey",
+      "home": "AE Prat",
+      "away": "Athletic Club",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "Veikkausliiga",
+      "home": "Kuopion Palloseura",
+      "away": "IF Gnistan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-10-29",
+      "comp": "EFL Cup",
+      "home": "Everton",
+      "away": "Newcastle",
+      "market": "Double Chance DC 1X",
+      "odd": 1.46
     }
   ],
   "league_stats": {
