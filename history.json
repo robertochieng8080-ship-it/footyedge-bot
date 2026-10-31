@@ -4537,6 +4537,78 @@
       "away": "Mainz",
       "market": "Double Chance DC 1X",
       "odd": 1.31
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Championship",
+      "home": "Norwich",
+      "away": "Watford",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Premier League",
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Premium Liiga",
+      "home": "Nomme United",
+      "away": "Levadia Tallinn",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Premier League",
+      "home": "Bournemouth",
+      "away": "Leeds",
+      "market": "Over 1.5 Yes",
+      "odd": 1.21
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "V-League 1",
+      "home": "Song Lam Nghe An",
+      "away": "Cong An Ha Noi FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Parva Liga",
+      "home": "PFC Lokomotiv Plovdiv",
+      "away": "Ludogorets 1945",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "V-League 1",
+      "home": "Song Lam Nghe An",
+      "away": "Cong An Ha Noi FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Premier League",
+      "home": "Gabala FK",
+      "away": "Qarabag FK",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-10-31",
+      "comp": "Serie A",
+      "home": "AC Milan",
+      "away": "Inter Milan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
