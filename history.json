@@ -4609,6 +4609,78 @@
       "away": "Inter Milan",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Premier League",
+      "home": "Tampines Rovers FC",
+      "away": "Geylang International FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "1. Lig",
+      "home": "Sivasspor",
+      "away": "Boluspor",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Premier League",
+      "home": "Nairobi United FC",
+      "away": "Bandari",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Indian Super League",
+      "home": "Mumbai City",
+      "away": "Sporting Club Delhi",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Premier League",
+      "home": "Leopards",
+      "away": "Kakamega Homeboyz",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Bundesliga",
+      "home": "Eintracht Fr",
+      "away": "Hamburg",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Serie A",
+      "home": "Juventus",
+      "away": "Napoli",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "1. Lig",
+      "home": "Sivasspor",
+      "away": "Boluspor",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-01",
+      "comp": "Premier League",
+      "home": "Gor Mahia",
+      "away": "KCB",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
