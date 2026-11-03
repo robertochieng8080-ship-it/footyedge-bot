@@ -4753,6 +4753,78 @@
       "away": "Everton",
       "market": "Double Chance DC 1X",
       "odd": 1.38
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "Championship",
+      "home": "Watford",
+      "away": "Lincoln City",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "LigaPro Primera A",
+      "home": "Mushuc Runa",
+      "away": "Manta FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "UEFA Champions League",
+      "home": "FC Shakhtar Donetsk",
+      "away": "Sporting",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "Croatian Cup",
+      "home": "Istra 1961",
+      "away": "Neretva",
+      "market": "Over 1.5 Yes",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "Championship",
+      "home": "Derby",
+      "away": "Norwich",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "AFC Champions League Elite",
+      "home": "Al Hilal SFC",
+      "away": "Shabab Al Ahli Dubai",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "AFC Champions League Elite",
+      "home": "Port FC",
+      "away": "Beijing Guoan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "UEFA Champions League",
+      "home": "Galatasaray",
+      "away": "Stuttgart",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-03",
+      "comp": "Russian Cup",
+      "home": "Spartak Kostroma",
+      "away": "FC Volna Nizhny Novgorod Oblast",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
     }
   ],
   "league_stats": {
