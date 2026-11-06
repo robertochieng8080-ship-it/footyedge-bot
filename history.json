@@ -4897,6 +4897,78 @@
       "away": "Lyon",
       "market": "Double Chance DC 1X",
       "odd": 1.29
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Premier League",
+      "home": "Al Fehaheel",
+      "away": "Al Salibikhaet",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Egypt Cup",
+      "home": "Smouha SC",
+      "away": "Al Minya",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Superliga",
+      "home": "KF Dukagjini",
+      "away": "KF Llapi",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Premier League",
+      "home": "Karela United FC",
+      "away": "Vision FC (GHA)",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Pro League",
+      "home": "Sepahan SC",
+      "away": "Malavan Bandar Anzali FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Premier League",
+      "home": "FC BKMA Yerevan",
+      "away": "FC Alashkert Yerevan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Pro League",
+      "home": "Persepolis FC",
+      "away": "Fajr Sepasi FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Championship",
+      "home": "Derby",
+      "away": "Bolton",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-06",
+      "comp": "Premier League",
+      "home": "Lokomotiv Moscow",
+      "away": "FK Rubin Kazan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
     }
   ],
   "league_stats": {
