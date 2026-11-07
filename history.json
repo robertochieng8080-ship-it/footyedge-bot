@@ -4969,6 +4969,78 @@
       "away": "FK Rubin Kazan",
       "market": "Double Chance DC 1X",
       "odd": 1.34
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Superettan",
+      "home": "Sundsvall",
+      "away": "Varbergs BoIS",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Premier League",
+      "home": "Mombasa United FC",
+      "away": "Shabana FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Bundesliga",
+      "home": "Mainz",
+      "away": "Bayern Munich",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Super League",
+      "home": "Persita Tangerang",
+      "away": "Isenmulang Kalteng FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Premier League",
+      "home": "Akhaa Ahli",
+      "away": "Jwaaya FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "1. Liga",
+      "home": "Slovan Liberec",
+      "away": "Bohemians 1905",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Bundesliga",
+      "home": "Stuttgart",
+      "away": "Werder Bremen",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Bundesliga",
+      "home": "Mainz",
+      "away": "Bayern Munich",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-07",
+      "comp": "Bundesliga",
+      "home": "Dortmund",
+      "away": "Elversberg",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
     }
   ],
   "league_stats": {
