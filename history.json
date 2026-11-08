@@ -5041,6 +5041,78 @@
       "away": "Elversberg",
       "market": "Double Chance DC 1X",
       "odd": 1.32
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Premier League",
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Bundesliga",
+      "home": "Hoffenheim",
+      "away": "Schalke 04",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Serie A",
+      "home": "Napoli",
+      "away": "Lazio",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "CAF Super Cup",
+      "home": "Mamelodi Sundowns",
+      "away": "USM Alger",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Premier League",
+      "home": "Man Utd",
+      "away": "Aston Villa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "TOPLYGA",
+      "home": "FK Suduva",
+      "away": "Dziugas",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Premier League",
+      "home": "Mathare United",
+      "away": "Posta Ranger",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "FA Cup",
+      "home": "Stafford",
+      "away": "Grimsby Town",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-08",
+      "comp": "Eredivisie",
+      "home": "SC Heerenveen",
+      "away": "Feyenoord",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
     }
   ],
   "league_stats": {
