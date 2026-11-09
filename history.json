@@ -5113,6 +5113,78 @@
       "away": "Feyenoord",
       "market": "Double Chance DC 1X",
       "odd": 1.38
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "LigaPro Primera A",
+      "home": "Mushuc Runa",
+      "away": "Delfin SC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "National League",
+      "home": "Hapoel Kfar Saba FC",
+      "away": "Maccabi Bney Reine",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "Azadegan League",
+      "home": "SaiPa FC",
+      "away": "Havadar SC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "Vtora Liga",
+      "home": "CSKA Sofia II",
+      "away": "PFC Rilski Sportist Samokov",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "Prva Liga",
+      "home": "FK Napredak Krusevac",
+      "away": "FK Bor 1919",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "Liga 2",
+      "home": "ASU Politehnica Timisoara",
+      "away": "Csm Resita",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "LigaPro Primera A",
+      "home": "Tecnico Universitario",
+      "away": "Manta FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "Erovnuli Liga",
+      "home": "FC Iberia 1999",
+      "away": "FC Gagra",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-09",
+      "comp": "National League",
+      "home": "Ironi Modiin",
+      "away": "Hapoel Acre FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
