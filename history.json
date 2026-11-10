@@ -5185,6 +5185,78 @@
       "away": "Hapoel Acre FC",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "EFL Trophy",
+      "home": "Bradford City",
+      "away": "York",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "EFL Trophy",
+      "home": "Grimsby Town",
+      "away": "Nottm Forest Reserves",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "Isthmian League, Pr. Div",
+      "home": "Whitehawk",
+      "away": "Welling",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "Pernambucano",
+      "home": "Jaguar PE",
+      "away": "Vera Cruz",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "Southern League Premier Central",
+      "home": "Bury Town",
+      "away": "Bishop's Stortford",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "EFL Trophy",
+      "home": "Leicester",
+      "away": "Walsall",
+      "market": "Double Chance DC 1X",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "Southern League Premier Central",
+      "home": "Bury Town",
+      "away": "Bishop's Stortford",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "EFL Trophy",
+      "home": "Bradford City",
+      "away": "York",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-11-10",
+      "comp": "EFL Trophy",
+      "home": "Plymouth",
+      "away": "Swindon Town",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
     }
   ],
   "league_stats": {
