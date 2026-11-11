@@ -5257,6 +5257,78 @@
       "away": "Swindon Town",
       "market": "Double Chance DC 1X",
       "odd": 1.41
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "EFL Trophy",
+      "home": "Barnsley",
+      "away": "Oldham",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "Belarus Cup",
+      "home": "FC Orsha",
+      "away": "Bate Borisov",
+      "market": "Over 1.5 Yes",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "Slovensky Pohar",
+      "home": "Nove Zamky",
+      "away": "Zemplin Michalovce",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "Slovensky Pohar",
+      "home": "Zeleziarne Podbrezova",
+      "away": "Vion Zlate Moravce - Vrable",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "Ligue 1",
+      "home": "Derby Academie",
+      "away": "AS Kayes",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "Croatia U19",
+      "away": "Hungary",
+      "market": "Double Chance DC 1X",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "ANDORRA U19",
+      "away": "Poland U19",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "Slovenia",
+      "away": "England U19",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-11",
+      "comp": "Elite One",
+      "home": "Colombe FC",
+      "away": "Victoria United",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
