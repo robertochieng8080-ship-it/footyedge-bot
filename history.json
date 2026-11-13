@@ -5401,6 +5401,78 @@
       "away": "Spain",
       "market": "Double Chance DC 1X",
       "odd": 1.3
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Int. Friendly Games",
+      "home": "Argentina",
+      "away": "Uruguay",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Concacaf Nations League",
+      "home": "Bermuda",
+      "away": "Saint Lucia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Mozambique",
+      "away": "Ethiopia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Comoros",
+      "away": "Republic Congo",
+      "market": "Over 1.5 Yes",
+      "odd": 1.2
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Int. Friendly Games",
+      "home": "Saudi Arabia",
+      "away": "Republic of Korea",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Mozambique",
+      "away": "Ethiopia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Egypt",
+      "away": "Malawi",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Concacaf Nations League",
+      "home": "Saint Martin",
+      "away": "El Salvador",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-13",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Zambia",
+      "away": "Burundi",
+      "market": "Double Chance DC 1X",
+      "odd": 1.39
     }
   ],
   "league_stats": {
