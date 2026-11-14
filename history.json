@@ -5473,6 +5473,78 @@
       "away": "Burundi",
       "market": "Double Chance DC 1X",
       "odd": 1.39
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "UEFA Nations League",
+      "home": "Austria",
+      "away": "Ireland",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "UEFA Nations League",
+      "home": "Romania",
+      "away": "Poland",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "Coupe de France",
+      "home": "Sag Cestas",
+      "away": "Aviron Bayonnais FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.22
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "Moldova",
+      "away": "GIBRALTAR U19",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "Northern Ireland U19",
+      "away": "Malta U19 ",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "U19 UEFA European Championship, Qualification",
+      "home": "Northern Ireland U19",
+      "away": "Malta U19 ",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "Coupe de France",
+      "home": "Fco Firminy",
+      "away": "FC Annecy",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "Concacaf Nations League",
+      "home": "Haiti",
+      "away": "USA",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-11-14",
+      "comp": "Brasileiro Serie A",
+      "home": "Chapecoense",
+      "away": "CR Vasco da Gama",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
     }
   ],
   "league_stats": {
