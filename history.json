@@ -5617,6 +5617,78 @@
       "away": "Vado FC",
       "market": "Double Chance DC 1X",
       "odd": 1.46
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "Super League 2",
+      "home": "Niki Volou",
+      "away": "Pas Pyrgos",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "Primera Division",
+      "home": "Montevideo Wanderers",
+      "away": "CA Juventud de Las Piedras",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "UEFA Nations League",
+      "home": "Greece",
+      "away": "Serbia",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "Super League 2",
+      "home": "Panionios",
+      "away": "Olympiacos Piraeus B",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Zimbabwe",
+      "away": "Equatorial Guinea",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "UEFA Nations League",
+      "home": "Estonia",
+      "away": "Bulgaria",
+      "market": "Double Chance DC 1X",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "U21 UEFA European Championship, Qualification",
+      "home": "Greece U21",
+      "away": "Iceland U21",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "UEFA Nations League",
+      "home": "Greece",
+      "away": "Serbia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-11-16",
+      "comp": "Africa Cup of Nations Qualification",
+      "home": "Central African Republic",
+      "away": "Benin",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
     }
   ],
   "league_stats": {
