@@ -5761,6 +5761,78 @@
       "away": "Sweden",
       "market": "Double Chance DC 1X",
       "odd": 1.43
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "SRL Club Friendlies",
+      "home": "KRC Genk SRL",
+      "away": "1. FC Cologne SRL",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Copa del Rey",
+      "home": "CD Minera",
+      "away": "Cartagena",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Copa del Rey",
+      "home": "Badajoz",
+      "away": "Tenerife",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "CLJ",
+      "home": "Rakow Czestochowa",
+      "away": "Legia Warszawa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Taca Fares Lopes",
+      "home": "FC Atletico Cearense CE",
+      "away": "Ceara SC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Copa del Rey",
+      "home": "Club Portugalete",
+      "away": "Union de Irun",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Copa Bolivia",
+      "home": "Always Ready",
+      "away": "Real Potosi",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Copa del Rey",
+      "home": "Reus FC Reddis",
+      "away": "Barakaldo",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-11-18",
+      "comp": "Brasileiro Serie A",
+      "home": "Gremio FB Porto Alegrense",
+      "away": "EC Bahia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
     }
   ],
   "league_stats": {
