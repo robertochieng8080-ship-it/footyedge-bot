@@ -5833,6 +5833,78 @@
       "away": "EC Bahia",
       "market": "Double Chance DC 1X",
       "odd": 1.47
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "2. Division A",
+      "home": "Pharco FC",
+      "away": "El-Entag",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "1. Division",
+      "home": "FC Fredericia",
+      "away": "Hillerod Fodbold",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "Egypt Cup",
+      "home": "Al Mokawloon",
+      "away": "El Qanah FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "Super League",
+      "home": "Mufulira Wanderers",
+      "away": "Kabwe Warriors",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "Brasileiro Serie A",
+      "home": "EC Vitoria",
+      "away": "Red Bull Bragantino SP",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "ASEAN Club Championship",
+      "home": "Cong An Ha Noi FC",
+      "away": "Johor Darul Ta'zim",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "Slovenia Cup",
+      "home": "ND Beltinci",
+      "away": "NK Celje",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "2. Division A",
+      "home": "Pharco FC",
+      "away": "El-Entag",
+      "market": "Double Chance DC 1X",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-19",
+      "comp": "Brasileiro Serie A",
+      "home": "EC Vitoria",
+      "away": "Red Bull Bragantino SP",
+      "market": "Double Chance DC 1X",
+      "odd": 1.36
     }
   ],
   "league_stats": {
