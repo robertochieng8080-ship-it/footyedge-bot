@@ -5905,6 +5905,78 @@
       "away": "Red Bull Bragantino SP",
       "market": "Double Chance DC 1X",
       "odd": 1.36
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "Premier League",
+      "home": "Sumgayit FK",
+      "away": "Sabah Masazir",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "2nd Division",
+      "home": "PAEEK",
+      "away": "Halkanoras",
+      "market": "Over 1.5 Yes",
+      "odd": 1.23
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "Ligue 2",
+      "home": "El Bayadh",
+      "away": "Jrb Taghit",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "Superliga",
+      "home": "FC Prishtina",
+      "away": "KF Drenica Skenderaj",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "Stars League",
+      "home": "Al Duhail SC",
+      "away": "Qatar SC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "2nd Division",
+      "home": "PAEEK",
+      "away": "Halkanoras",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "2. Liga",
+      "home": "Triglav Kranj",
+      "away": "NK Vrhnika",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "Super League",
+      "home": "Dewa United",
+      "away": "Persita Tangerang",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-20",
+      "comp": "FNL",
+      "home": "MFK Karvina",
+      "away": "Banik Ostrava B",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
