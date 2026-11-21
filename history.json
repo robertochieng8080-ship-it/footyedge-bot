@@ -5977,6 +5977,78 @@
       "away": "Banik Ostrava B",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "2. Bundesliga",
+      "home": "Wolfsburg",
+      "away": "Holstein Kiel",
+      "market": "Over 1.5 Yes",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Serie A",
+      "home": "Parma",
+      "away": "AS Roma",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Premier League",
+      "home": "Bournemouth",
+      "away": "Nottm Forest",
+      "market": "Over 1.5 Yes",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Championship",
+      "home": "Southampton",
+      "away": "Derby",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Premier League",
+      "home": "Man City",
+      "away": "Fulham",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Premier League",
+      "home": "Coventry City",
+      "away": "Crystal Palace",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Serie A",
+      "home": "Parma",
+      "away": "AS Roma",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Serie A",
+      "home": "Napoli",
+      "away": "Torino FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.47
+    },
+    {
+      "date": "2026-11-21",
+      "comp": "Cambodian Premier League",
+      "home": "Phnom Penh",
+      "away": "Kirivong Soksen",
+      "market": "Double Chance DC 1X",
+      "odd": 1.31
     }
   ],
   "league_stats": {
