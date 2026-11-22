@@ -6049,6 +6049,78 @@
       "away": "Kirivong Soksen",
       "market": "Double Chance DC 1X",
       "odd": 1.31
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Serie A",
+      "home": "Sassuolo",
+      "away": "Genoa",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Ligue 1",
+      "home": "Paris",
+      "away": "Angers",
+      "market": "Over 1.5 Yes",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Ligue 1",
+      "home": "Marseille",
+      "away": "Le Mans",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Vysshaya Liga",
+      "home": "Maxline Vitebsk",
+      "away": "FC Slavia Mozyr",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "U23 Pro League",
+      "home": "AL Jazira",
+      "away": "Khorfakkan",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Thai League 1",
+      "home": "Rayong FC",
+      "away": "Rasisalai United",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Taca de Portugal",
+      "home": "SC Farense",
+      "away": "Fatima",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "Premier League",
+      "home": "KCB",
+      "away": "3K FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-22",
+      "comp": "U23 Pro League",
+      "home": "AL Jazira",
+      "away": "Khorfakkan",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
