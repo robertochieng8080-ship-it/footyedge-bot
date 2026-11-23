@@ -6121,6 +6121,78 @@
       "away": "Khorfakkan",
       "market": "Double Chance DC 1X",
       "odd": 1.44
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "AFC Champions League Elite",
+      "home": "Al-Shamal",
+      "away": "Al-Ahli Saudi FC",
+      "market": "Over 1.5 Yes",
+      "odd": 1.48
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Ligue 2",
+      "home": "Sochaux",
+      "away": "Dunkerque",
+      "market": "Over 1.5 Yes",
+      "odd": 1.41
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Serie A",
+      "home": "Monza",
+      "away": "ACF Fiorentina",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Allsvenskan",
+      "home": "Hammarby IF",
+      "away": "IFK Goteborg",
+      "market": "Over 1.5 Yes",
+      "odd": 1.24
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "PrvaLiga",
+      "home": "NK Koper",
+      "away": "Aluminij Kidricevo",
+      "market": "Over 1.5 Yes",
+      "odd": 1.25
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Ligue 2",
+      "home": "Nantes",
+      "away": "Grenoble",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Premier League",
+      "home": "Brentford",
+      "away": "Everton",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Serie A",
+      "home": "Monza",
+      "away": "ACF Fiorentina",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-23",
+      "comp": "Brasileiro Serie A",
+      "home": "Botafogo RJ",
+      "away": "Sao Paulo FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
