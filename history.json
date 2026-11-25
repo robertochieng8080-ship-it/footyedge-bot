@@ -6265,6 +6265,78 @@
       "away": "FC Sudtirol Bolzano",
       "market": "Double Chance DC 1X",
       "odd": 1.35
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Championship",
+      "home": "Bolton",
+      "away": "West Brom",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Premier League",
+      "home": "Apr FC",
+      "away": "Musanze",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Slovenia Cup",
+      "home": "NK Bravo Ljubljana",
+      "away": "NK Odranci",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Girabola",
+      "home": "Atletico Petroleos de Luanda",
+      "away": "FC Cabinda",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Division 1",
+      "home": "AL Ula",
+      "away": "Al-Adalah",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Premier League",
+      "home": "Al-Merrikh SC",
+      "away": "AS Kigali",
+      "market": "Double Chance DC 1X",
+      "odd": 1.26
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "2. Division",
+      "home": "Al-Khor SC",
+      "away": "AL Shamal Future",
+      "market": "Double Chance DC 1X",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "Premier League",
+      "home": "Ulinzi Stars",
+      "away": "Leopards",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-25",
+      "comp": "2. Division",
+      "home": "Al Kharaitiyat SC",
+      "away": "Etihad AL Gharafa",
+      "market": "Double Chance DC 1X",
+      "odd": 1.4
     }
   ],
   "league_stats": {
