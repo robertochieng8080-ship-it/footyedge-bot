@@ -6337,6 +6337,78 @@
       "away": "Etihad AL Gharafa",
       "market": "Double Chance DC 1X",
       "odd": 1.4
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Europa League",
+      "home": "Lyon",
+      "away": "Lillestrom SK",
+      "market": "Over 1.5 Yes",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Conference League",
+      "home": "Inter Club de Escaldes",
+      "away": "FC Copenhagen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.36
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Europa League",
+      "home": "Sunderland",
+      "away": "Jagiellonia Bialystok",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Europa League",
+      "home": "Juventus",
+      "away": "Omonia Nicosi",
+      "market": "Over 1.5 Yes",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Europa League",
+      "home": "SCU Torreense",
+      "away": "Celtic",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Conference League",
+      "home": "Hearts",
+      "away": "Monaco",
+      "market": "Double Chance DC 1X",
+      "odd": 1.45
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Europa League",
+      "home": "Marseille",
+      "away": "PFC Levski Sofia",
+      "market": "Double Chance DC 1X",
+      "odd": 1.43
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Conference League",
+      "home": "PFC CSKA Sofia",
+      "away": "Trabzonspor",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
+    },
+    {
+      "date": "2026-11-26",
+      "comp": "UEFA Conference League",
+      "home": "Brighton",
+      "away": "CS Universitatea Craiova",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
     }
   ],
   "league_stats": {
