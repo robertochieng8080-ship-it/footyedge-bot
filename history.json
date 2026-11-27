@@ -6409,6 +6409,78 @@
       "away": "CS Universitatea Craiova",
       "market": "Double Chance DC 1X",
       "odd": 1.32
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Coupe de France",
+      "home": "US Saint Omer",
+      "away": "Caen",
+      "market": "Over 1.5 Yes",
+      "odd": 1.39
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Superliga",
+      "home": "KF Malisheva",
+      "away": "KF Llapi",
+      "market": "Over 1.5 Yes",
+      "odd": 1.34
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Ligue 1",
+      "home": "Brest",
+      "away": "Paris",
+      "market": "Over 1.5 Yes",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Liga Alef",
+      "home": "Hapoel Umm AL Fahm",
+      "away": "Hapoel Bnei Jat Utd",
+      "market": "Over 1.5 Yes",
+      "odd": 1.31
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "3. Liga",
+      "home": "Hansa Rostock",
+      "away": "Havelse",
+      "market": "Over 1.5 Yes",
+      "odd": 1.29
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Liga Alef",
+      "home": "Hapoel Umm AL Fahm",
+      "away": "Hapoel Bnei Jat Utd",
+      "market": "Double Chance DC 1X",
+      "odd": 1.28
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Jordan League",
+      "home": "Al Wehdat",
+      "away": "Doqarah FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "First Division",
+      "home": "Dubai City FC",
+      "away": "Fujairah FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.37
+    },
+    {
+      "date": "2026-11-27",
+      "comp": "Ligue 1",
+      "home": "Brest",
+      "away": "Paris",
+      "market": "Double Chance DC 1X",
+      "odd": 1.42
     }
   ],
   "league_stats": {
