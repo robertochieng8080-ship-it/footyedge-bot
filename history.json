@@ -6481,6 +6481,78 @@
       "away": "Paris",
       "market": "Double Chance DC 1X",
       "odd": 1.42
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Serie A",
+      "home": "Frosinone",
+      "away": "Parma",
+      "market": "Over 1.5 Yes",
+      "odd": 1.4
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "2. Bundesliga",
+      "home": "HERTHA",
+      "away": "Karlsruhe",
+      "market": "Over 1.5 Yes",
+      "odd": 1.3
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Ligue 1",
+      "home": "Angers",
+      "away": "Lens",
+      "market": "Over 1.5 Yes",
+      "odd": 1.35
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Championship",
+      "home": "Lincoln City",
+      "away": "Wolves",
+      "market": "Over 1.5 Yes",
+      "odd": 1.27
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Thai League 1",
+      "home": "Rasisalai United",
+      "away": "Buriram United",
+      "market": "Over 1.5 Yes",
+      "odd": 1.33
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Coupe de France",
+      "home": "Olympique Charleville Prix Ardenne Metropole",
+      "away": "Reims",
+      "market": "Double Chance DC 1X",
+      "odd": 1.32
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Saudi Pro League",
+      "home": "Al-Hazm",
+      "away": "Al-Nassr FC",
+      "market": "Double Chance DC 1X",
+      "odd": 1.38
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Serie A",
+      "home": "Torino FC",
+      "away": "Lazio",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
+    },
+    {
+      "date": "2026-11-28",
+      "comp": "Bundesliga",
+      "home": "Mainz",
+      "away": "UNION BERLIN",
+      "market": "Double Chance DC 1X",
+      "odd": 1.44
     }
   ],
   "league_stats": {
